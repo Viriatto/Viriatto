@@ -1,1 +1,1 @@
-![Metrics](https://github.com/viriatto/viriatto/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Viriatto/Viriatto/blob/master/github-metrics.svg)
